@@ -47,8 +47,8 @@ Infra       → GitHub Actions · Vercel · Docker
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherconan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0d17&title_color=7c6cf0&icon_color=f06292&text_color=e0e0e8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherconan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0d17&title_color=7c6cf0&text_color=e0e0e8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sherconan&show_icons=true&hide_border=true&bg_color=00000000&title_color=6C5CE7&icon_color=E84D8A&text_color=64748B" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherconan&layout=compact&hide_border=true&bg_color=00000000&title_color=6C5CE7&text_color=64748B" height="165" />
 </p>
 
 <p align="center">
